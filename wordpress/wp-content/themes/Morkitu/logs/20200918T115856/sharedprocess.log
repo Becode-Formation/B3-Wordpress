@@ -1,0 +1,2 @@
+[2020-09-18 11:59:00.194] [sharedprocess] [info] main {"machineId":"7eb1579f96beae7a1deab4097f0b015a72046664431dceea20356266f582eb5b","windowId":2}
+[2020-09-18 11:59:00.252] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/rob/Dev/becode_projects/the_Mountain/wordpress/wp-content/themes/Morkitu/User/snippets'
